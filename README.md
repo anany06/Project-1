@@ -1,1 +1,1 @@
-# Project-1
+ Spam mail detection using machine learning is a popular technique used to automatically identify and filter out unwanted emails. Machine learning algorithms can be trained on a dataset of labeled emails, where the spam and non-spam labels are known, to learn pattern recognition models that can detect spam messages.
